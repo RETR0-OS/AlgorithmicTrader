@@ -1,0 +1,6 @@
+Basics/
+BotCode/
+.idea/
+.venv/
+BotCodeV2/Data/secrets.py
+BotCodeV2/Data/secrets.dat
